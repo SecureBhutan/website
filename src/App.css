@@ -21,7 +21,7 @@
 .terminal p {
   margin: 0.5rem 0;
   opacity: 0;
-  animation: typewriter 0.5s forwards;
+  animation: typewriter 3s forwards;
 }
 
 .terminal p:nth-child(2) {

@@ -25,7 +25,7 @@ function App() {
     <div className="app">
       <nav className="navbar">
         <div className="container">
-          <h1 className="tech-font neon-text">SecureNet</h1>
+          <h1 className="tech-font neon-text">Secure Bhutan</h1>
           <div className="nav-links">
             <a href="#services">Services</a>
             <a href="#about">About</a>
@@ -100,7 +100,7 @@ function App() {
 
       <footer>
         <div className="container">
-          <p>&copy; 2024 SecureNet. All rights reserved.</p>
+          <p>&copy; 2025 SecureBhutan. All rights reserved.</p>
         </div>
       </footer>
     </div>
