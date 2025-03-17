@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import cyberBg from './assets/cyber-bg.jpg'
+// import cyberBg from './assets/cyber-bg.jpg'
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
@@ -34,7 +34,10 @@ function App() {
         </div>
       </nav>
 
-      <section className="hero" style={{backgroundImage: `linear-gradient(rgba(10, 10, 10, 0.9), rgba(10, 10, 10, 0.9)), url(${cyberBg})`}}>
+      <section className="hero" style={{
+        backgroundColor: 'var(--background)',  // Fallback background
+        // backgroundImage: `linear-gradient(rgba(10, 10, 10, 0.9), rgba(10, 10, 10, 0.9)), url(${cyberBg})`
+      }}>
         <div className="container">
           <h1 className="tech-font">Securing Your Digital Future</h1>
           <p className="subtitle">Advanced Cybersecurity Solutions for the Modern World</p>
