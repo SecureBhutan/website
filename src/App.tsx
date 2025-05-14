@@ -25,7 +25,7 @@ function App() {
     <div className="app">
       <nav className="navbar">
         <div className="container">
-          <h1 className="tech-font neon-text">Secure Bhutan</h1>
+          <h1 className="tech-font neon-text">Cyber Deities</h1>
           <div className="nav-links">
             <a href="#services">Services</a>
             <a href="#about">About</a>

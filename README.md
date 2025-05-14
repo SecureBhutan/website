@@ -4,7 +4,7 @@ A modern, cybersecurity-focused website built with React and Vite, featuring a h
 
 ## 🚀 Live Site
 
-Visit the live site at [securebhutan.com](https://securebhutan.com)
+Visit the live site at [cyberdeities.com](https://cyberdeities.com)
 
 ## 🛠️ Built With
 
